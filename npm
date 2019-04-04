@@ -7,6 +7,7 @@ permissões.
 
 - Conteúdos de Apoio:
     - https://medium.com/collabcode/como-instalar-node-js-no-linux-corretamente-ubuntu-debian-elementary-os-729fb4c92f2d
+    (reset o terminal após instalar)
     - https://stackoverflow.com/questions/16151018/npm-throws-error-without-sudo/24404451#24404451
 
 - Resolver erros EACCES ao instalar pacotes globalmente
