@@ -13,7 +13,7 @@
 
 | Error | Resolve |
 | --- | --- |
-| ./mongod: /usr/lib/x86_64-linux-gnu/libcurl.so.4: version `CURL_OPENSSL_3' not found (required by ./mongod) | Intalar versão para OS LINUX e não UBUNTU |
+| ./mongod: /usr/lib/x86_64-linux-gnu/libcurl.so.4: version `CURL_OPENSSL_3' not found (required by ./mongod) | Instalar versão para OS LINUX e não UBUNTU |
 
 ## Run
 
